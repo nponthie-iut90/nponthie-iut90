@@ -1,0 +1,13 @@
+- 👋 Bonjour, je suis @nponthie-iut90
+- 👀 Je suis intéressé par la programmation
+- 🌱 Je suis actuellement en B.U.T Informatique
+- 📫 Pour me contacter: [mail](natan.ponthieu@edu.univ-fcomte.fr)
+<!---- 💞️ I’m looking to collaborate on ...--->
+<!---
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+--->
+<!---
+nponthie-iut90/nponthie-iut90 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
