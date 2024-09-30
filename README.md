@@ -1,4 +1,4 @@
-- 👋 Bonjour, je suis @nponthie-iut90
+- 👋 Bonjour, je suis Nathan PONTHIEU
 - 👀 Je suis intéressé par la programmation
 - 🌱 Je suis actuellement en B.U.T Informatique
 - 📫 Pour me contacter: natan.ponthieu@edu.univ-fcomte.fr
