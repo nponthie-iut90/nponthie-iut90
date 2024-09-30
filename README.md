@@ -1,7 +1,7 @@
 - 👋 Bonjour, je suis @nponthie-iut90
 - 👀 Je suis intéressé par la programmation
 - 🌱 Je suis actuellement en B.U.T Informatique
-- 📫 Pour me contacter: [mail](natan.ponthieu@edu.univ-fcomte.fr)
+- 📫 Pour me contacter: natan.ponthieu@edu.univ-fcomte.fr
 <!---- 💞️ I’m looking to collaborate on ...--->
 <!---
 - 😄 Pronouns: ...
