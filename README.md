@@ -2,7 +2,7 @@
 - 👀 Je suis intéressé par la programmation
 - 🌱 Je suis actuellement en B.U.T Informatique
 - 📫 Pour me contacter: natan.ponthieu@edu.univ-fcomte.fr
-- **Actuellement à la recherche d'un stage ou d'une alternance**
+- **Actuellement à la recherche d'une alternance**
 <!---- 💞️ I’m looking to collaborate on ...--->
 <!---
 - 😄 Pronouns: ...
